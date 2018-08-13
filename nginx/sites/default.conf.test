@@ -5,7 +5,7 @@ server {
     listen [::]:80;
 
     server_name api.tyy0.com;
-    root /var/www/project_tyy_cp/public;
+    root /var/www/project_tyy/public;
     index index.php index.html index.htm;
 
     location / {
